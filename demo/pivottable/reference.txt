@@ -1,0 +1,5 @@
+http://nicolas.kruchten.com/pivottable/examples/index.html
+
+
+
+view-source:http://nicolas.kruchten.com/pivottable/examples/scatter.html
